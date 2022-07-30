@@ -1,0 +1,21 @@
+.col-4{
+   
+    flex-basis: 25%;
+    padding-left: 300px;
+    min-width: 200px;
+    margin-bottom: 50px;
+    border-radius: 3px;
+
+}
+.col-4 img{
+    width: 30%;
+    height: 35%;
+}
+
+.rating{
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    display: inline-block;
+    flex-wrap: wrap;
+}
